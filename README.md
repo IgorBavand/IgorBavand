@@ -73,7 +73,7 @@
 
 ##
 
-[![Meus projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Meus projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact)](https://github.com/igorbavand/github-readme-stats)
 
 
 
