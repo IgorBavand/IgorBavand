@@ -73,7 +73,7 @@
 
 ##
 
-[![Meus projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+[![Meus projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&theme=tokyonight)
 
 
 
