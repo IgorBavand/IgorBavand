@@ -9,9 +9,6 @@
 
 ##
 
-<div>
-<img src="https://media.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e4743nz2bmwq62sq3by3ykm8d3cul49eevllqmtwjxc&rid=giphy.gif&ct=g" width="150" height="110" />
-</div>
 
 ##
 
