@@ -4,13 +4,9 @@
 
 <p>🎈 Software Livre ❤</p>
 
-
 ##
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorbavand/count.svg" /></p>
-
-##
-
 
 ##
 
@@ -37,9 +33,6 @@
  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
-
-    
 </div>
 
 ##
@@ -63,6 +56,14 @@
 
 </div>
 
+## 
+
+   <div>
+    <a href="https://github.com/igorbavand">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorbavand&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact&langs_count=7&theme=radical"/>
+   </div>
+
 ##
 
 <div>
@@ -75,7 +76,9 @@
 
 ##
 
-[![Meus projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&theme=tokyonight)
+![Snake animation](https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
