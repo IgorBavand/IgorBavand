@@ -2,6 +2,8 @@
 
 <p>👨‍💻 Um dia a gente vai conseguir o código fonte, então mudaremos o mundo!!! 🌎</p>
 
+<p>🎈 Software Livre ❤</p>
+
 
 ##
 
