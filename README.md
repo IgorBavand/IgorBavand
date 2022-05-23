@@ -80,7 +80,7 @@ I'm a {**BACKEND**, frontend} - backend developer.
 ##
   
   <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbavand&amp;theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbavand&amp;theme=radical">
 </div>
 
 ##
