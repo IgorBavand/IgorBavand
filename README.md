@@ -76,6 +76,12 @@ I'm a {**BACKEND**, frontend} - backend developer.
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorbavand&show_icons=true&theme=radical"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact&theme=radical"/>
 </div>
+  
+##
+  
+  <div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbavand&amp;theme=dracula">
+</div>
 
 ##
 
