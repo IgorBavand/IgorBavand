@@ -66,6 +66,8 @@ I'm a {**BACKEND**} - developer.
  <img align="center" alt="vs code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="URI" height="30" width="40" src="https://i.ibb.co/QmvC2Ln/uri.png"> 
  <img align="center" alt="composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"> 
+ <img align="center" alt="composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> 
+
 </div>
 &nbsp
 <div style="display: inline_block"><br>
@@ -80,6 +82,8 @@ I'm a {**BACKEND**} - developer.
 <div style="display: inline_block"><br>
     <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
     <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
+        <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg""> 
+
 </div>
 
 ## 
