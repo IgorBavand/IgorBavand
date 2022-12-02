@@ -62,7 +62,7 @@ I'm a {**BACKEND**} - developer.
  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> 
- <img align="center" alt="intelij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+ <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
  <img align="center" alt="vs code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="URI" height="30" width="40" src="https://i.ibb.co/QmvC2Ln/uri.png"> 
  <img align="center" alt="composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"> 
