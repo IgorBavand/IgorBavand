@@ -1,6 +1,5 @@
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, i'm Igor</h1></img> -->
-<h1> Hi, I'm Igor! 😃 </h1>
-<div>
+## Hi there 👋 Welcome!<div>
   <a href="https://www.youtube.com/channel/UCBYQVhkroBC_Jc5kog5bY7A/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/?authuser=igor.bvn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/igor_bavand.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,21 +9,21 @@
 <p><img src="https://komarev.com/ghpvc/?username=igorbavand" alt="Judahh" /></p>
 -->
 
-##
-
 <!--
 <p>👨‍💻 Um dia a gente vai conseguir o código fonte, então mudaremos o mundo!!! 🌎</p>
 <p>👨‍💻 Desenvolvimento Back-end ♥</p>
 <p>🎈 Software Livre ❤</p>
 -->
 
-### About me
-I'm a {**BACKEND**} - developer.
-<p>Um dia a gente vai conseguir o código fonte, então mudaremos o mundo!!! 💻🌎</p>
-<p>Software Livre ❤</p>
+### 👨‍💻 About me
+ - My name is **Igor**
+ - I'm from Brazil.
+ - I am 22 years old.
+ - I'm a {**BACKEND**} - developer.
 
 
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorbavand/count.svg" />
+
+  <!-- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorbavand/count.svg" /> -->
 
 ### 📌 Skills
 
@@ -32,13 +31,15 @@ I'm a {**BACKEND**} - developer.
     <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
-    <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
-   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img align="center" alt="ts" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <br><br>
+    <img align="center" alt="nest" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
+
+
 </div>
 &nbsp
 <div style="display: inline_block"><br>
