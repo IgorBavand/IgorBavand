@@ -76,7 +76,11 @@
 
 ![SistemaOperacional](https://skillicons.dev/icons?i=linux)
 
+---
 
+### 🏆 Troféus
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=igorbavand&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 
 
