@@ -18,7 +18,7 @@
 ### 🧍‍♂️ About me
  - My name is **Igor**
  - I'm from Brazil.
- - I am 22 years old.
+ - I am 23 years old.
  - I'm a {**BACKEND**} - developer.
 
 
