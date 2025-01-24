@@ -1,106 +1,111 @@
-<!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, i'm Igor</h1></img> -->
-## Hi there 👋 Welcome!<div>
-  <a href="https://www.youtube.com/channel/UCBYQVhkroBC_Jc5kog5bY7A/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/?authuser=igor.bvn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/igor_bavand.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/igor-g-b75875140/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
-<!--
-<p><img src="https://komarev.com/ghpvc/?username=igorbavand" alt="Judahh" /></p>
--->
+# 👨‍💻 Desenvolvedor Backend FullStack  
 
-<!--
-<p>👨‍💻 Um dia a gente vai conseguir o código fonte, então mudaremos o mundo!!! 🌎</p>
-<p>👨‍💻 Desenvolvimento Back-end ♥</p>
-<p>🎈 Software Livre ❤</p>
--->
-
-### 🧍‍♂️ About me
- - My name is **Igor**
- - I'm from Brazil.
- - I am 23 years old.
- - I'm a {**BACKEND**} - developer.
-
-
-
-  <!-- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorbavand/count.svg" /> -->
-
-### 📌 Skills
-
-
-### 🧑‍💻 Linguagens e Frameworks
-
-![Backend](https://skillicons.dev/icons?i=java,python,php,javascript,arduino,c,typescript,nodejs)
-
-![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,laravel)
-
-![Frontend](https://skillicons.dev/icons?i=html,css,jquery,bootstrap)
-
-![FrontendFrameworks](https://skillicons.dev/icons?i=vue,react,angular)
+**Fortaleza - CE**  
+✉️ [igor.devfs@gmail.com](mailto:igor.devfs@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/igor-g-b75875140)
 
 ---
 
-### 🛠 Ferramentas
+## 🚀 Sobre mim  
 
-![Ferramentas](https://skillicons.dev/icons?i=idea,vscode,atom,replit,eclipse)
-
-![Gerenciadores](https://skillicons.dev/icons?i=maven,vite)
+Fala aí! Sou um desenvolvedor backend com ampla experiência em **Java**, **Spring Boot** e arquitetura de microsserviços. Gosto de criar soluções robustas, escaláveis e seguras, sempre com foco em qualidade de código e boas práticas. Também tenho familiaridade com ferramentas de DevOps, automação e desenvolvimento frontend (quando necessário). Trabalho bem em equipe, sou curioso por natureza e apaixonado por aprender e compartilhar conhecimento.  
 
 ---
 
+## 🛠️ O que eu faço  
 
-### 🔨 DevOps e Repositórios
+### Backend  
+- **Java** (8+) com **Spring Boot** (Security, Data, Cloud, MVC, WebFlux).  
+- Bancos de dados relacionais (**MySQL**, **PostgreSQL**) e não relacionais (**MongoDB**, **Redis**).  
+- Testes automatizados com **JUnit** e **Mockito**.  
 
-![Devops](https://skillicons.dev/icons?i=git,docker,jenkins,nginx)
+### Frontend  
+- Experiência com **React**, **Angular**, e **Vue.js**.  
 
-![Repo](https://skillicons.dev/icons?i=github,gitlab)
+### DevOps  
+- **Docker**, **Kubernetes**, e CI/CD com **Jenkins** e **GitLab**.  
+- Infraestrutura em nuvem: **AWS**, **Azure**, e **Google Cloud**.  
 
-
----
-
-### 📦 Bancos e ORMs
-
-![Bancos](https://skillicons.dev/icons?i=mysql,postgres)
-
-![Orms](https://skillicons.dev/icons?i=prisma,hibernate)
-
----
-
-### 🤔 Outros
-
-![Outros](https://skillicons.dev/icons?i=redis,rabbitmq,kafka,postman)
+### Extras  
+- Mensageria com **Kafka** e **RabbitMQ**.  
+- Monitoramento e logs com **ElasticSearch**, **Kibana**, e **Datadog**.  
 
 ---
 
-### 🖥 Sistema Operacional
+## 💼 Experiência  
 
-![SistemaOperacional](https://skillicons.dev/icons?i=linux)
+### **Prolins Software House** (2024 - Atual)  
+**Desenvolvedor FullStack**  
+Atuando no desenvolvimento de soluções inovadoras para a área de telemedicina, contribuindo para a acessibilidade e qualidade do atendimento remoto.  
+
+- Desenvolvimento de novas funcionalidades e integrações para plataformas de teleconsulta.  
+- Automação de processos internos, melhorando eficiência operacional.  
+- Criação de relatórios e dashboards para análise de métricas e suporte à tomada de decisão.  
+- Garantia de conformidade com a LGPD, priorizando segurança e privacidade de dados sensíveis.  
+- Colaboração com equipes multidisciplinares para entrega de soluções de alta qualidade.  
 
 ---
 
-### 🏆 Troféus
+### **Xbrain Sistemas** (2022 - 2024)  
+**Desenvolvedor Backend**  
+Trabalhei no sistema **Conexão Claro Brasil**, otimizando plataformas de gestão de assinaturas e suporte técnico para operações de alta disponibilidade.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=igorbavand&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+- Desenvolvimento de sistemas críticos, garantindo alta performance e escalabilidade.  
+- Automação de processos manuais, reduzindo custos e tempo de operação.  
+- Implementação de APIs RESTful para integração de serviços internos e externos.  
+- Colaboração com equipes de produto e design para melhorar a experiência do usuário.  
+- Integração com sistemas de mensageria, como **Kafka** e **RabbitMQ**.  
 
-## 
+---
 
-<div style="display: inline_block"><br>
-    <a href="https://github.com/igorbavand">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorbavand&show_icons=true&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact&theme=radical"/>
-</div>
-  
-##
-  
-  <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorbavand&amp;theme=radical">
-</div>
+### **FitBank** (2022)  
+**Desenvolvedor Backend (Sustentação)**  
+Atuação em sistemas bancários, com foco em operações financeiras como **PIX** e boletos.  
 
-<!-- ![Snake animation](https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg) -->
+- Desenvolvimento e manutenção de funcionalidades para processamento financeiro.  
+- Automação de processos de conciliação e integração com sistemas bancários.  
+- Garantia de conformidade com normas regulatórias do Banco Central.  
+- Suporte técnico a sistemas críticos, assegurando disponibilidade contínua.  
 
+---
 
+### **F5+** (2021 - 2022)  
+**Desenvolvedor Backend**  
+Responsável por criar e otimizar sistemas voltados ao setor de crédito consignado.  
 
+- Desenvolvimento de sistemas para importação e exportação de dados entre plataformas financeiras.  
+- Automação de integrações, reduzindo a necessidade de intervenção manual.  
+- Otimização de processos internos, melhorando a produtividade da equipe.  
+- Criação de soluções para validação e armazenamento seguro de dados.  
 
+---
 
+### **Freela FullStack** (2019 - 2021)  
+**Desenvolvedor FullStack**  
+Desenvolvimento de soluções completas para clientes diversos, desde o backend até o frontend.  
 
+- Criação de sistemas personalizados com **PHP**, **Laravel**, **Blade**, e **MySQL**.  
+- Implementação de interfaces responsivas e amigáveis usando **CSS3**, **JavaScript** e **JQuery**.  
+- Desenvolvimento de APIs para integração de sistemas e aplicativos.  
+- Foco em performance, usabilidade e segurança para atender às necessidades dos clientes.  
 
+---
+
+## 🎓 Formação  
+
+- **Engenharia de Software** – UniCesumar (2024)  
+- **Universidade Federal do Ceará** – Transferido (2018 - 2022)  
+
+---
+
+## 🌍 Idiomas  
+
+- Português: Nativo  
+- Inglês: Intermediário (técnico e leitura)  
+
+---
+
+## 📈 Sempre aprendendo  
+
+Estou sempre buscando formas de melhorar minhas habilidades e aprender novas tecnologias. 
+Bora trocar uma ideia ou colaborar em algum projeto?  
