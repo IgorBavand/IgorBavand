@@ -1,111 +1,97 @@
-# 👨‍💻 Desenvolvedor FullStack  
+# Igor Guerreiro | Desenvolvedor FullStack 🚀
 
-**Fortaleza - CE**  
-✉️ [igor.devfs@gmail.com](mailto:igor.devfs@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/igor-g-b75875140)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-g-b75875140)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.devfs@gmail.com)
+[![Localização](https://img.shields.io/badge/Fortaleza-CE-green?style=for-the-badge)](https://github.com/)
 
----
+## Sobre mim 💡
 
-## 🚀 Sobre mim  
+Desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis, com ampla experiência na construção de sistemas complexos para diferentes setores, incluindo saúde, financeiro e telecomunicações. Possuo sólida expertise em arquitetura de microsserviços, integração de sistemas distribuídos e otimização de desempenho para aplicações de alta disponibilidade. Minha trajetória inclui o desenvolvimento de plataformas para telemedicina, soluções bancárias e infraestrutura para grandes operações de telecomunicações, sempre com foco em qualidade de código, boas práticas e inovação tecnológica. Estou sempre em busca de novos desafios que me permitam contribuir para projetos de grande impacto e alta complexidade.
 
-Fala aí! Sou um desenvolvedor backend com ampla experiência em **Java**, **Spring Boot** e arquitetura de microsserviços. Gosto de criar soluções robustas, escaláveis e seguras, sempre com foco em qualidade de código e boas práticas. Também tenho familiaridade com ferramentas de DevOps, automação e desenvolvimento frontend (quando necessário). Trabalho bem em equipe, sou curioso por natureza e apaixonado por aprender e compartilhar conhecimento.  
+## Tecnologias & Ferramentas 🛠️
 
----
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 🛠️ O que eu faço  
+### Frameworks e Bibliotecas
+#### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Backend  
-- **Java** (8+) com **Spring Boot** (Security, Data, Cloud, MVC, WebFlux).  
-- Bancos de dados relacionais (**MySQL**, **PostgreSQL**) e não relacionais (**MongoDB**, **Redis**).  
-- Testes automatizados com **JUnit** e **Mockito**.  
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
-### Frontend  
-- Experiência com **React**, **Angular**, e **Vue.js**.  
+### Bancos de Dados e ORMs
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-007ACC?style=flat-square&logo=typeorm&logoColor=white)
 
-### DevOps  
-- **Docker**, **Kubernetes**, e CI/CD com **Jenkins** e **GitLab**.  
-- Infraestrutura em nuvem: **AWS**, **Azure**, e **Google Cloud**.  
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### Extras  
-- Mensageria com **Kafka** e **RabbitMQ**.  
-- Monitoramento e logs com **ElasticSearch**, **Kibana**, e **Datadog**.  
+### Mensageria & Monitoramento
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
----
+## Experiência Profissional 💼
 
-## 💼 Experiência  
+### Prolins Software House (2024 - Atual)
+**Desenvolvedor FullStack - Telemedicina**
+- Desenvolvimento de soluções inovadoras para teleconsultas
+- Implementação de sistemas seguros e conformes com LGPD
+- Arquitetura de microsserviços e integrações
 
-### **Prolins Software House** (2024 - Atual)  
-**Desenvolvedor FullStack**  
-Atuando no desenvolvimento de soluções inovadoras para a área de telemedicina, contribuindo para a acessibilidade e qualidade do atendimento remoto.  
+### Xbrain Sistemas (2022 - 2024)
+**Desenvolvedor Backend - Conexão Claro Brasil**
+- Sistemas de alta disponibilidade
+- Integrações com APIs RESTful
+- Implementação de mensageria distribuída
 
-- Desenvolvimento de novas funcionalidades e integrações para plataformas de teleconsulta.  
-- Automação de processos internos, melhorando eficiência operacional.  
-- Criação de relatórios e dashboards para análise de métricas e suporte à tomada de decisão.  
-- Garantia de conformidade com a LGPD, priorizando segurança e privacidade de dados sensíveis.  
-- Colaboração com equipes multidisciplinares para entrega de soluções de alta qualidade.  
+### FitBank (2022)
+**Desenvolvedor Backend**
+- Desenvolvimento de sistemas bancários (PIX, Boletos)
+- Integrações com Banco Central
+- Alta disponibilidade e performance
 
----
+### F5+ (2021 - 2022)
+**Desenvolvedor Backend**
+- Sistemas para crédito consignado
+- Automação de processos financeiros
+- Integrações bancárias
 
-### **Xbrain Sistemas** (2022 - 2024)  
-**Desenvolvedor Backend**  
-Trabalhei no sistema **Conexão Claro Brasil**, otimizando plataformas de gestão de assinaturas e suporte técnico para operações de alta disponibilidade.  
+## Formação 🎓
+- **Engenharia de Software** - UniCesumar (2024)
+- **Universidade Federal do Ceará** - Transferido (2018 - 2022)
 
-- Desenvolvimento de sistemas críticos, garantindo alta performance e escalabilidade.  
-- Automação de processos manuais, reduzindo custos e tempo de operação.  
-- Implementação de APIs RESTful para integração de serviços internos e externos.  
-- Colaboração com equipes de produto e design para melhorar a experiência do usuário.  
-- Integração com sistemas de mensageria, como **Kafka** e **RabbitMQ**.  
+## Estatísticas GitHub 📊
 
----
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorbavand&show_icons=true&theme=dracula)
 
-### **FitBank** (2022)  
-**Desenvolvedor Backend (Sustentação)**  
-Atuação em sistemas bancários, com foco em operações financeiras como **PIX** e boletos.  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbavand&layout=compact&theme=dracula)
 
-- Desenvolvimento e manutenção de funcionalidades para processamento financeiro.  
-- Automação de processos de conciliação e integração com sistemas bancários.  
-- Garantia de conformidade com normas regulatórias do Banco Central.  
-- Suporte técnico a sistemas críticos, assegurando disponibilidade contínua.  
+## Entre em Contato 📫
 
----
-
-### **F5+** (2021 - 2022)  
-**Desenvolvedor Backend**  
-Responsável por criar e otimizar sistemas voltados ao setor de crédito consignado.  
-
-- Desenvolvimento de sistemas para importação e exportação de dados entre plataformas financeiras.  
-- Automação de integrações, reduzindo a necessidade de intervenção manual.  
-- Otimização de processos internos, melhorando a produtividade da equipe.  
-- Criação de soluções para validação e armazenamento seguro de dados.  
-
----
-
-### **Freela FullStack** (2019 - 2021)  
-**Desenvolvedor FullStack**  
-Desenvolvimento de soluções completas para clientes diversos, desde o backend até o frontend.  
-
-- Criação de sistemas personalizados com **PHP**, **Laravel**, **Blade**, e **MySQL**.  
-- Implementação de interfaces responsivas e amigáveis usando **CSS3**, **JavaScript** e **JQuery**.  
-- Desenvolvimento de APIs para integração de sistemas e aplicativos.  
-- Foco em performance, usabilidade e segurança para atender às necessidades dos clientes.  
-
----
-
-## 🎓 Formação  
-
-- **Engenharia de Software** – UniCesumar (2024)  
-- **Universidade Federal do Ceará** – Transferido (2018 - 2022)  
+- 📧 Email: igor.devfs@gmail.com
+- 💼 LinkedIn: [Igor Guerreiro.](https://linkedin.com/in/igor-g-b75875140)
+- 📍 Localização: Fortaleza - CE
 
 ---
 
-## 🌍 Idiomas  
+⭐️ From [igorbavand](https://github.com/igorbavand)
 
-- Português: Nativo  
-- Inglês: Intermediário (técnico e leitura)  
-
----
-
-## 📈 Sempre aprendendo  
-
-Estou sempre buscando formas de melhorar minhas habilidades e aprender novas tecnologias. 
-Bora trocar uma ideia ou colaborar em algum projeto?  
