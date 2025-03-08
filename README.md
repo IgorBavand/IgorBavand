@@ -49,35 +49,7 @@ Desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis, 
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
-## Experiência Profissional 💼
 
-### Prolins Software House (2024 - Atual)
-**Desenvolvedor FullStack - Telemedicina**
-- Desenvolvimento de soluções inovadoras para teleconsultas
-- Implementação de sistemas seguros e conformes com LGPD
-- Arquitetura de microsserviços e integrações
-
-### Xbrain Sistemas (2022 - 2024)
-**Desenvolvedor Backend - Conexão Claro Brasil**
-- Sistemas de alta disponibilidade
-- Integrações com APIs RESTful
-- Implementação de mensageria distribuída
-
-### FitBank (2022)
-**Desenvolvedor Backend**
-- Desenvolvimento de sistemas bancários (PIX, Boletos)
-- Integrações com Banco Central
-- Alta disponibilidade e performance
-
-### F5+ (2021 - 2022)
-**Desenvolvedor Backend**
-- Sistemas para crédito consignado
-- Automação de processos financeiros
-- Integrações bancárias
-
-## Formação 🎓
-- **Engenharia de Software** - UniCesumar (2024)
-- **Universidade Federal do Ceará** - Transferido (2018 - 2022)
 
 ## Estatísticas GitHub 📊
 
