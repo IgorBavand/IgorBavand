@@ -6,7 +6,7 @@
 
 ## Sobre mim 💡
 
-Desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis, com ampla experiência na construção de sistemas complexos para diferentes setores, incluindo saúde, financeiro e telecomunicações. Possuo sólida expertise em arquitetura de microsserviços, integração de sistemas distribuídos e otimização de desempenho para aplicações de alta disponibilidade. Minha trajetória inclui o desenvolvimento de plataformas para telemedicina, soluções bancárias e infraestrutura para grandes operações de telecomunicações, sempre com foco em qualidade de código, boas práticas e inovação tecnológica. Estou sempre em busca de novos desafios que me permitam contribuir para projetos de grande impacto e alta complexidade.
+Desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis.
 
 ## Tecnologias & Ferramentas 🛠️
 
